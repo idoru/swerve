@@ -1,0 +1,4 @@
+---
+applications:
+- name: awesometiger
+  buildpack: https://github.com/cloudfoundry-community/swift-buildpack.git
